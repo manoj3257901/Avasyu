@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "233637933264",
+    "firebase_url": "https://avasyu2.firebaseio.com",
+    "project_id": "avasyu2",
+    "storage_bucket": "avasyu2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233637933264:android:0af55e387707f806716ed5",
+        "android_client_info": {
+          "package_name": "com.avasyu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233637933264-dp65c0he4la44tr11g9c58740t1deeuf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avasyu",
+            "certificate_hash": "5799b32d3e2a379ac6f29967037090089eabb8e7"
+          }
+        },
+        {
+          "client_id": "233637933264-18iga3c70o17om5uhrsd0eq6kd64i21q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiDzu3XCoyhcczMZ27v-yWjj2kvlN2-YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233637933264-18iga3c70o17om5uhrsd0eq6kd64i21q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233637933264:android:f19f2dad70934388716ed5",
+        "android_client_info": {
+          "package_name": "com.manoj.avasyu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233637933264-18iga3c70o17om5uhrsd0eq6kd64i21q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiDzu3XCoyhcczMZ27v-yWjj2kvlN2-YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233637933264-18iga3c70o17om5uhrsd0eq6kd64i21q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
